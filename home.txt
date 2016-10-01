@@ -1,0 +1,15 @@
+Virtual Doctor gives you a homely service at ur doorsteps in 
+simple steps. Info about the tabs are as follows:
+
+Disease Search
+This tab helps you to have glance about the known disease or
+infection. By typing you can know its sympyoms and precautions.
+
+Evaulation Of Symptoms
+This tab is all about encountring your disease or infection
+through the help of symptoms.
+
+Medicines
+This tab gives you the list of medicines of the disease you
+
+wish to see.

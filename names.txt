@@ -1,0 +1,474 @@
+1headache
+$
+$SYMPTOMS :
+$nausea
+$vomiting
+$pain in the eye when looking into bright light
+$dizziness
+$vertigo
+$tenderness of the scalp
+$tightness sensation in the head
+$stroke
+#
+#PRECAUTIONS :
+#if one faces a headache which he/she has 
+#never experienced before.
+#headaches which are so severe that a patience 
+#could not bear
+#if a patient has a history of trauma.
+#if one face headache along with fever.
+#if the aged are facing severe headaches.
+#one may not get relief from migraine through 
+#medicine alone and the patient may be advised by the
+#doctor to go through C.T.scan.
+#one may not get relief with the headaches associated
+#with migraine because it maycome back after some time.
+#the life style,food habits and family history is very
+#much responsible for it.
+@
+@MEDICINES :
+@excedrin migraine.
+@diphenhydramine.
+@paracetamol.
+3pneumonia
+$
+$SYMPTOMS :
+$sore throat
+$nasal congestion
+$cough
+$high fever
+$headache
+$muscle aches
+$fatigue
+$weakness
+#
+#PRECAUTIONS :
+#avoid the spread of germs.
+#limit alcohol.
+#rest often throughout the day.
+#smoking increases the risk for pneumonia.
+@
+@MEDICINES :
+@mamoxycillin
+@doxycycline
+@clarithromycinedicines
+4heart attack
+$
+$SYMPTOMS :
+$jaw pain
+$toothache
+$headache
+$shortness of breath
+$nausea
+$vomiting
+$epigastric discomfort
+$sweating
+$heartburn
+$indigestion
+$arm pain
+$upper back pain
+$general malaise
+#
+#PRECAUTIONS :
+#eat a heart-healthy diet.
+#control your stress level.
+#control your cholesterol levels and BP level.
+#stop smoking.
+@
+@MEDICINES :
+@spironolactone
+@eplerenone
+@asprin
+@thrombolytics
+5diabetes
+$
+$SYMPTOMS :
+$high blood	
+$urine
+$dehydration
+$hunger
+$increased urination
+$increased thirst
+$weight loss or gain
+$fatigue
+$nausea
+$vomiting
+$blurred vision
+$vaginal infections in women
+$yeast infections 
+$drymouth
+$itching skin
+$slow healing wounds
+#
+#PRECAUTIONS :
+#Constant and regular food timings. 
+#No long Gaps and skipping of meals.
+#No overeating.
+#Proper Exercise and work outs.
+#Avoid fried foods and meat.
+@
+@MEDICINES :
+@Insulin.
+@Pramlintide.
+@acarbose (Precose)
+@miglitol (Glyset)
+@metformin-alogliptin (Kazano)
+@metformin-canagliflozin (Invokamet)
+6common cold
+$
+$SYMPTOMS :
+$cough
+$stuffy
+$runny nose
+$scratchy
+$sore throat
+$sneezing
+$low grade fever
+$watery eyes
+$headache
+$fatigue
+$body aches
+#
+#PRECAUTIONS :
+#one should aviod fried foods,pickles,chutney and
+#all sour recipes.
+#avoid heavy meals instead one should take meals at
+#regular intervals.
+#fresh prepared food should be taken.
+#regular and nutritious meals are important.
+#try to keep yourself away from infected common 
+#cold person.
+#avoid touching your nose,eyes and mouth.
+@
+@MEDICINES :
+@paracetamol.
+@ibuprofen.
+@decongestants.
+7breast cancer
+$
+$SYMPTOMS :
+$lump in the breast
+$nipple discharge or redness
+$puckering
+$dimpling 
+$swelling of part of the breast
+#
+#PRECAUTIONS :
+#Avoid becoming overweight.
+#Eat healthy to avoid tipping the scale.
+#Keep physically active.
+#Avoid hormone replacement therapy.
+#Get regular breast cancer screenings.
+@
+@MEDICINES :
+@Evista (Raloxifene Hydrochloride)
+@Keoxifene (Raloxifene Hydrochloride)
+@Nolvadex (Tamoxifen Citrate)
+@Raloxifene Hydrochloride.
+@Tamoxifen Citrate.
+8sneezing
+$
+$SYMPTOMS :
+$burning
+$itchy
+$watery eyes
+$nasal congestion
+$runny nose
+$sore throat
+$cough
+$fever
+$chills
+#
+#PRECAUTIONS :
+#cover your mouth and nose when you sneeze.
+#excessive cold or heat should be avoided.
+#avoid cold stuffs such as ice-cream,cold drinks.
+@
+@MEDICINES :
+@benadryl oral.
+@diphenhydramine oral.
+@Claritin oral. 
+@ZzzQuil oral.
+@loratadine oral.
+@Allegra-D 12 Hour oral.
+@cyproheptadine oral.
+9dengue
+$
+$SYMPTOMS :
+$high fever
+$severe headache
+$severe pain
+$joint pain
+$muscle pain
+$bone pain
+$rashand mild bleeding
+$low back pain
+$severe abdominal pain
+$vomiting
+$breathing problems
+$bleeding tendencies
+$nose bleeding
+$bleeding gums
+$skin hemorrhages
+#
+#PRECAUTIONS :
+#keep home,environment and surrounding hygiene.
+#remove all stagnant water and containers.
+#avoid accumulation of ground water.
+#keep all drains well maintained.
+@
+@MEDICINES :
+@acetaminophen(tylenol)
+@codeine
+1brain tumor
+$
+$SYMPTOMS :
+$balance problems
+$gait disturbances
+$headache
+$hearing changes
+$memory problems
+$nausea
+$numbness
+$personality changes
+$seizures
+$speech changes
+$tingling
+$trouble concentrating
+$vision changes
+$vomiting
+$weakness
+#
+#PRECAUTIONS :
+#Get Screenings and Immunizations.
+#Eat a Balanced Diet.
+#Quit Smoking.
+#Regular exercise and physical activity.
+@
+@MEDICINES :
+@Afinitor (Everolimus).
+@Afinitor Disperz (Everolimus).
+@Avastin (Bevacizumab).
+@Becenum (Carmustine).
+@Bevacizumab.
+@BiCNU (Carmustine).
+@Carmubris (Carmustine).
+@Carmustine.
+@Carmustine Implant.
+@CeeNu (Lomustine).
+2appendicitis
+$
+$SYMPTOMS :
+$abdominal pain
+$abdominal swelling
+$abdominal tenderness
+$back pain
+$constipation
+$diarrhea
+$fever
+$loss of appetite
+$nausea
+$painfull urination
+$rectal pain
+$vomiting
+#
+#PRECAUTIONS :
+#The individual must take adequate rest.
+#Diet should include coarse cereals,fruits and
+#consume fenugreek seeds,soaked and boiled in 
+#water.
+@
+@MEDICINES :
+@zosyn intravenous.
+@piperacillin-tazobactam intravenous
+@piperacillin-tazobactam-dextrose (iso)
+3typhoid Fever
+$SYMPTOMS :
+$poor appetite
+$abdominal pain
+$headaches
+$generalized aches and pains
+$high fever
+$lethargy (usually only if untreated)
+$intestinal bleeding or perforation (after 
+$two to three weeks of the disease)
+$diarrhea or constipation.
+#
+#PRECAUTIONS :
+#Leafy vegetables, raw vegetables and fruits 
+#must be kept away from the diet as this 
+#contains lot of fibers.
+#It is not advisable to smoke during disease phase.
+#Avoid drinking untreated water.
+#Avoid raw fruits and vegetables.
+#Choose hot foods.
+@
+@MEDICINES :
+@Cipro oral	 	 	
+@Bactrim DS oral	 	 	
+@ciprofloxacin oral	 	
+@amoxicillin oral	 	 	
+@Bactrim oral
+4smallpox
+$SYMPTOMS :
+$high fever.
+$chills.
+$malaise.
+$headache.
+$severe back pain.
+$abdominal pain.
+$vomiting.
+#
+#PRECAUTIONS :
+#Stay away from, and keep your children away from,
+#anyone who might have smallpox.
+#Avoid being in enclosed areas with others who may
+#be sick, such as buses and trains.
+#Do not touch the skin area where someone had a
+#smallpox vaccine placed.
+#Wash your hands regularly and avoid touching 
+#your eyes, nose, and mouth.
+@
+@MEDICINES :
+@nafcillin
+@oxacillin
+@dicloxacillin
+@cloxacillin
+5malaria
+$
+$SYMPTOMS :
+$shaking chills that are moderate to severe.
+$high fever.
+$profuse sweating.
+$headache.
+$nausea.
+$vomiting.
+$diarrhea.
+$anemia.
+#
+#PRECAUTIONS :
+#Apply insect repellent containing 30-35% DEET 
+#to exposed skin.
+#Protect yourself day and night, because different
+#mosquitoes feed at different times.
+#Wear long-sleeved shirts, pants, and a hat to
+#minimize exposed skin. 
+@
+@MEDICINES :
+@Chloroquine 
+@Mefloquine
+@Malarone
+@Doxycycline
+6diphtheria
+$
+$SYMPTOMS :
+$A thick, gray membrane covering your throat and tonsils.
+$A sore throat and hoarseness.
+$Swollen glands (enlarged lymph nodes) in your neck.
+$Difficulty breathing or rapid breathing.
+$Nasal discharge.
+$Fever and chills.
+#
+#PRECAUTIONS :
+#The picking up of cigarette & cigar buts for reuse is prohibited
+#All sore throats, however trivial, are to be reported
+#Patients to be isolated
+#Staff to be isolated from other personnel
+#Staff to wear nose & mouth guards (made of gauze) when 
+#working in wards
+#Patients to wear nose & mouth guards when being moved in
+#vicinity of non infected persons
+#All drinking containers to be sterilized in boiling water
+@
+@MEDICINES :
+@antitoxin
+@antibiotics
+7cholera
+$
+$SYMPTOMS :
+$Rapid heart rate
+$Loss of skin elasticity (the ability to return to original 
+$position quickly if pinched)
+$Dry mucous membranes, including the inside of the mouth, throat,
+$nose, and eyelids
+$Low blood pressure
+$Thirst
+$Muscle cramps
+#
+#PRECAUTIONS :
+#Drink only water that you have boiled or treated with chlorine 
+#or iodine
+#Eat only foods that have been thoroughly cooked and are still
+#hot, or fruit that you have peeled yourself.
+#Avoid foods and beverages from street vendors.
+#Wash hands with soap and water frequently
+@
+@MEDICINES :
+@Tetracycline
+@Erythromycin 
+@Cotrimoxazole 
+@Chloramphenicol
+@Furazolidone
+8tuberculosis
+$
+$SYMPTOMS :
+$Coughing that lasts three or more weeks.
+$Coughing up blood.
+$Chest pain, or pain with breathing or coughing.
+$Unintentional weight loss.
+$Fatigue.
+$Fever.
+$Night sweats.
+$Chills.
+#
+#PRECAUTIONS :
+#Always cover your mouth and nose when you cough or sneeze. 
+#While at home, spend only a short time in rooms that other
+#people use like the bathroom or kitchen.
+#Directly Observed Therapy (DOT) is the best way to cure your TB.
+@
+@MEDICINES :
+@Bedaquiline
+@Capreomycin
+@Cycloserine
+@Ethambutol
+9asthma
+$
+$SYMPTOMS :
+$Coughing, especially at night, during exercise or when laughing.
+$Shortness of breath.
+$Chest tightness.
+$Wheezing 
+#
+#PRECAUTIONS :
+#Don't allow smoking in your house.
+#Wear a mask and gloves when cleaning, vacuuming, or painting to
+#limit dust and chemical exposure.
+#Vacuum twice a week.
+@
+@MEDICINES :
+@Zafirlukast
+@Flunisolide
+@Metaproterenol
+1diarrhea
+$
+$SYMPTOMS :
+$Frequent, loose, watery stools.
+$Abdominal cramps.
+$Abdominal pain.
+$Fever.
+$Blood in the stool.
+$Bloating.
+#
+#PRECAUTIONS :
+#Wash your hands
+#Prepare food with care
+#Dispose of all refuse in a sanitary way
+@
+@MEDICINES :
+@Lomotil oral	 	 	
+@Levbid oral	 	 	
+@Levsin oral	 	 	
+@glycopyrrolate oral	 	 	
+@diphenoxylate-atropine oral
+2

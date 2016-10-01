@@ -1,0 +1,16 @@
+HELLO..!
+The main aim of the project in hand is to provide an improved, 
+faster and instant approach of diagnosing and prescribing 
+medicines to different diseases.It is a substitute to the 
+local primary healthcare system.It acts as a charity at the 
+intersection of technology and medicine.Provides a faster way 
+to detect health problems to localities of remote areas.It 
+provides better healthcare at your fingertips.Acts as a 
+medical consultant at your doorstep.The software developed 
+at the end of this project detects the disease affected to the 
+user based on the symptoms given as the input by the patient. 
+The software also prescribes medicines and gives precautions to 
+treat the disease.The code is a prototype of an actual virtual 
+doctor software,which can be built by including more number 
+of diseases. 
+GO AHEAD AND HAVE A LOOK.

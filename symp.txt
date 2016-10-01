@@ -1,0 +1,131 @@
+$nausea
+$vomiting
+$pain in the eye when looking into bright light
+$dizziness
+$vertigo
+$tenderness of the scalp
+$tightness sensation in the head
+$stroke
+$sore throat
+$nasal congestion
+$cough
+$high fever
+$headache
+$muscle aches
+$fatigue
+$weakness
+$jaw pain
+$toothache
+$shortness of breath
+$epigastric discomfort
+$sweating
+$heartburn
+$indigestion
+$arm pain
+$upper back pain
+$general malaise
+$high blood	
+$urine
+$dehydration
+$hunger
+$increased urination
+$increased thirst
+$weight loss or gain
+$blurred vision
+$vaginal infections in women
+$yeast infections 
+$drymouth
+$itching skin
+$slow healing wounds
+$stuffy
+$runny nose
+$scratchy
+$sneezing
+$low grade fever
+$watery eyes
+$body aches
+$lump in the breast
+$nipple discharge or redness
+$puckering
+$dimpling 
+$swelling of part of the breast
+$burning
+$itchy
+$watery eyes
+$fever
+$chills
+$severe headache
+$severe pain
+$joint pain
+$muscle pain
+$bone pain
+$rashand mild bleeding
+$low back pain
+$severe abdominal pain
+$breathing problems
+$bleeding tendencies
+$nose bleeding
+$bleeding gums
+$skin hemorrhages
+$balance problems
+$gait disturbances
+$hearing changes
+$memory problems
+$numbness
+$personality changes
+$seizures
+$speech changes
+$tingling
+$trouble concentrating
+$vision changes
+$abdominal pain
+$abdominal swelling
+$abdominal tenderness
+$back pain
+$constipation
+$diarrhea
+$loss of appetite
+$painfull urination
+$rectal pain
+$poor appetite
+$generalized aches and pains
+$fever, often up to 104 F
+$lethargy (usually only if untreated)
+$intestinal bleeding or perforation (after 
+$two to three weeks of the disease)
+$diarrhea or constipation.
+$malaise.
+$severe back pain.
+$shaking chills that are moderate to severe.
+$profuse sweating.
+$anemia.
+$A thick, gray membrane covering your throat and tonsils.
+$A sore throat and hoarseness.
+$Swollen glands (enlarged lymph nodes) in your neck.
+$Difficulty breathing or rapid breathing.
+$Nasal discharge.
+$Fever and chills.
+$Rapid heart rate
+$Loss of skin elasticity (the ability to return to original 
+$position quickly if pinched)
+$Dry mucous membranes, including the inside of the mouth, throat,
+$nose, and eyelids
+$Low blood pressure
+$Thirst
+$Muscle cramps
+$Coughing that lasts three or more weeks.
+$Coughing up blood.
+$Chest pain, or pain with breathing or coughing.
+$Unintentional weight loss.
+$Fever.
+$Night sweats.
+$Coughing, especially at night, during exercise or when laughing.
+$Chest tightness.
+$Wheezing 
+$Frequent, loose, watery stools.
+$Abdominal cramps.
+$Fever.
+$Blood in the stool.
+$Bloating.
+
+2

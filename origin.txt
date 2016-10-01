@@ -1,0 +1,15 @@
+Virtual Doctor, an efficient program which help to detect and 
+know about your disease in a better way and easily. This progarm
+is planned and designed to help people at their doorsteps.
+
+Programmers info:
+1.Tejash Shrestha		
+2.Yasheka V.
+3.Supreetha Achar K
+4.Rahul Pai
+
+Thank you!! for using this software
+
+	 					    
+						     copyright c ,2015 
+
