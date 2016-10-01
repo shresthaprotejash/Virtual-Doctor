@@ -1,4 +1,5 @@
 # Virtual-Doctor
+//The whole code was designed in a turbo C compiler with grapics library enabled. So if you run it try to have a graphics library set on yours.
 This is a C based graphical user interface program which helps you to find the disease from the symptoms. The tabs helps to switch between the categories.
 First category is about the program.
 Second category is getting the information about the disease like sypmtoms, preventions, medicine prescribed after you enter the disease name.
